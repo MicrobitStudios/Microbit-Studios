@@ -11,7 +11,7 @@ Any serious questions can be mailed to *microbitstudios@gmail.comm*.
 **NOTE: this address is temporary in wait of our official website.**
 
 ### Short 
-Our token will be listed on Waves DEX as "MiBiToken" and will cost between 0.003 and 0.006 WAVES on launch (about 0.01 USD), depending on WAVES trajectory.
+Our token will be listed on Waves DEX as "MiBiToken" and will be priced at 0.005 WAVES on launch.  
 After the ICO is finished we will replace the "MiBiToken" with our official company Cryptocurrency, more information about this will be posted on our official channels and website during that time.
 
 The Microbit Studios' cryptocurrency will be backed with real company shares at 10:9 ratio. Meaning that for every 10 coins a person holds, that person will be entitled to 9 company shares. These shares will be backed by the company's cryptocurrency exclusively and will, for the foreseeable future, not be listed on stock exchanges.  
