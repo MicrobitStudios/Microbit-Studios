@@ -2,8 +2,8 @@
 The Microbit Studios' github page, as a starting point for all our files and information.
 
 ### Contact Information
-Our Twitter page will be active on May 17th 2019 @MicrobitStudios  
-Our Discord page will be active on May 17th 2019 https://discord.gg/T2ahM9V  
+Our Twitter page will be active on May 17th 2019 [@MicrobitStudios](https://twitter.com/MicrobitStudios)  
+Our Discord page will be active on May 17th 2019 [Microbit Studios](https://discord.gg/T2ahM9V)  
 Our Whitepaper will be launched here on May 17th 2019.  
 Our Token sale will launch on June 3rd 2019 on Waves Platform.  
 Our company website will launch in June following our Token Sale.  
