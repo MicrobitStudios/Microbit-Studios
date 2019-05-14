@@ -8,7 +8,7 @@ Our Whitepaper will be launched here on May 17th 2019.
 Our Token sale will launch on June 3rd 2019 on Waves Platform.  
 Our company website will launch in June following our Token Sale.  
 Any serious questions can be mailed to *microbitstudios@gmail.comm*.  
-**NOTE:** this address is temporary in wait of our official website.
+**NOTE: this address is temporary in wait of our official website.**
 
 ### Short 
 Our token will be listed on Waves DEX as "MiBiToken" and will cost between 0.003 and 0.006 WAVES on launch (about 0.01 USD), depending on WAVES trajectory.
