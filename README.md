@@ -8,7 +8,8 @@ Our Whitepaper: .
 Our open Job Offers: .  
 Our Job Application Form: .  
 Our Projects in Development: .  
-Our Token sale is live on Waves Platform .  
+Our Token sale is live on Waves Platform: MibiToken/WAVES (ID 8QvkmmEYRUySmvHRz4CwFf2Wp1Tvt1ymHKi9sWUJN5yP).  
+**NOTE: This Token is free to trade right after buying, no script attached.**  
 Our company website will launch a while later, following our Token Sale.  
 Any serious questions can be mailed to *microbitstudios@gmail.com*.  
 **NOTE: this address is temporary in wait of our official website.**
