@@ -16,7 +16,8 @@ Any serious questions can be mailed to *microbitstudios@gmail.com*.
 **NOTE: this address is temporary in wait of our official website.**
 
 ### Short 
-Our token will be listed on Waves DEX as "MiBiToken" and will be priced at 0.005 WAVES on launch.  
+Our token will be listed on Waves DEX as "MiBiToken" and will be priced at 0.005 WAVES on launch 30th May 2019.  
+100.000.000 MiBiToken will be sold in total, the first 10.000.000 will be priced at 0.004 WAVES on 24th May 2019 as an earlybird offer.  
 After the ICO is finished this token will not be used for any of our applications, the token will represent your share of the company.  We will implement a system that will pay MiBiToken owners X% of our company's net profits each quarter of the bookyear, in one of four ways; BTC, ETH, WAVES, USD (wiretransfer only).  
 For detailed information please refer to our whitepaper.
 
